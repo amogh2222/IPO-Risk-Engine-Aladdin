@@ -12,3 +12,6 @@ An institutional-grade risk management tool designed to stress-test IPO portfoli
 - **Language:** Python 3.9+
 - **Analysis:** NumPy, SciPy, Pandas
 - **Dashboard:** Streamlit, Plotly
+- # 🛡️ IPO Risk Engine (Aladdin Lite)
+
+[![Live App](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)](https://ipo-risk-engine-aladdin-ijcgssp63gwyatyrcffgvu.streamlit.app/)
