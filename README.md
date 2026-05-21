@@ -1,4 +1,4 @@
-# Aladdin Lite: IPO Factor Risk Engine
+# IPO Factor Risk Engine
 
 An institutional-grade risk management tool designed to stress-test IPO portfolios. This project replicates the core functionality of BlackRock's Aladdin by moving beyond simple historical tracking into **predictive risk modeling.**
 
@@ -12,6 +12,6 @@ An institutional-grade risk management tool designed to stress-test IPO portfoli
 - **Language:** Python 3.9+
 - **Analysis:** NumPy, SciPy, Pandas
 - **Dashboard:** Streamlit, Plotly
-- # 🛡️ IPO Risk Engine (Aladdin Lite)
+- # 🛡️ IPO Risk Engine
 
 [![Live App](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)](https://ipo-risk-engine-aladdin-ijcgssp63gwyatyrcffgvu.streamlit.app/)
