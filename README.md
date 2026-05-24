@@ -96,22 +96,6 @@ Building dynamic dashboards and analytical visual interfaces.
 
 ---
 
-# 📊 Visual Analytics
-
-<div align="center">
-
-| Trend Analysis | Correlation Heatmaps |
-|---|---|
-| Add Screenshot | Add Screenshot |
-
-| Comparative Analytics | Interactive Dashboards |
-|---|---|
-| Add Screenshot | Add Screenshot |
-
-</div>
-
----
-
 # ⚙️ Installation
 
 ## Clone Repository
@@ -143,25 +127,11 @@ streamlit run app.py
 - 🧠 Advanced Feature Engineering
 - 📊 Automated Visualization Pipelines
 - ⚡ Distributed Data Processing
-
----
-
-# 👨‍💻 Author
-
-## Amogh Srivastava
-
-- GitHub: https://github.com/amogh2222
-- LinkedIn: https://linkedin.com/in/amoghsri
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
-
 ---
 
 # 📜 License
 
 This project is licensed under the MIT License.
+
+
 [![Live App](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)](https://ipo-risk-engine-aladdin-ijcgssp63gwyatyrcffgvu.streamlit.app/)
